@@ -1,2 +1,1 @@
-# Python version: 3.9
 numpy==1.16.2
